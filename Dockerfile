@@ -2,7 +2,7 @@
 #
 # A caching proxy. Specialized for package files from Linux distributors.
 
-FROM ubuntu:xenial-20160818
+FROM ubuntu:xenial-20160923.1
 MAINTAINER Jirayut Nimsaeng <w [at] winginfotech.net>
 
 # 1) Install apt-cacher-ng
